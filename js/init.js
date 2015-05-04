@@ -34,7 +34,8 @@ $(function () {
 		items: 4,
 		itemsTablet: [768,3],
 		itemsTabletSmall: [690,2],
-		itemsMobile : [480,1]
+		itemsMobile : [480,1],
+		autoPlay: true
 	});
 	
 	
